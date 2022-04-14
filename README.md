@@ -5,10 +5,10 @@ Coming back to the original Python tutorial. [Think Python 2](https://greenteapr
 I kinda like the look of the artefacts when you conver it from an SVG to a PNG so I've included both
 
 <p align="center">
-  <img src="./flowerDarkMode.svg#gh-dark-mode-only" width="500px">
-  <img src="./flowerLightMode.svg#gh-light-mode-only" width="500px">
-  <img src="./opacifiedFlowerDarkMode.png#gh-dark-mode-only" width="500px">
-  <img src="./opacifiedFlowerLightMode.png#gh-light-mode-only" width="500px">
+  <img src="./flowerDarkMode.svg#gh-dark-mode-only" width="400px">
+  <img src="./flowerLightMode.svg#gh-light-mode-only" width="400px">
+  <img src="./opacifiedFlowerDarkMode.png#gh-dark-mode-only" width="400px">
+  <img src="./opacifiedFlowerLightMode.png#gh-light-mode-only" width="400px">
 </p>
 
 GitHub added an [easy way](https://github.blog/changelog/2021-11-24-specify-theme-context-for-images-in-markdown/) to query for darkmode/lightmode
@@ -45,8 +45,8 @@ pipenv run start
 ### Denser flower
 
 <p align="center">
-  <img src="./denseFlowerDarkMode.svg#gh-dark-mode-only" width="500px">
-  <img src="./denseFlowerLightMode.svg#gh-light-mode-only" width="500px">
-  <img src="./opacifiedDenseFlowerDarkMode.png#gh-dark-mode-only" width="500px">
-  <img src="./opacifiedDenseFlowerLightMode.png#gh-light-mode-only" width="500px">
+  <img src="./denseFlowerDarkMode.svg#gh-dark-mode-only" width="400px">
+  <img src="./denseFlowerLightMode.svg#gh-light-mode-only" width="400px">
+  <img src="./opacifiedDenseFlowerDarkMode.png#gh-dark-mode-only" width="400px">
+  <img src="./opacifiedDenseFlowerLightMode.png#gh-light-mode-only" width="400px">
 </p>
