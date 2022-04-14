@@ -1,9 +1,9 @@
 # Turtle Flowers
 
-I dug up some old code from when I first learnt to program.
+Cleaned up some code I dug up from 2017 and generated some images (instead of being stuck inside the tkinter window)
 
 
-(Extreme) Turtle Flowers based off of [Think Python 2 chapter 4](https://greenteapress.com/thinkpython2/thinkpython2.pdf). Which I still think is one of the best ways to introduce functions to a new programmer. After making the general flower function, younger me made the flowers have 300 petals and some pretty pictures came out of it.
+(Extreme) Turtle Flowers based off of [Think Python 2 chapter 4](https://greenteapress.com/thinkpython2/thinkpython2.pdf). Which I still think is one of the best ways to introduce function composition to a new programmer. After making the general flower function, younger me made the flowers have 100s of petals and some pretty pictures came out of it.
 
 I kinda like the look of the artifacts when you conver it from an SVG to a PNG so I've included both
 
