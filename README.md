@@ -8,24 +8,24 @@ I dug up some old code from when I first learnt to program.
 I kinda like the look of the artifacts when you conver it from an SVG to a PNG so I've included both
 
 <p align="center">
-  <img src="./flowerDarkMode.svg#gh-dark-mode-only" width="400px">
-  <img src="./flowerLightMode.svg#gh-light-mode-only" width="400px">
-  <img src="./opacifiedFlowerDarkMode.png#gh-dark-mode-only" width="400px">
-  <img src="./opacifiedFlowerLightMode.png#gh-light-mode-only" width="400px">
+  <img src="./output/flowerDarkMode.svg#gh-dark-mode-only" width="400px">
+  <img src="./output/flowerLightMode.svg#gh-light-mode-only" width="400px">
+  <img src="./output/opacifiedFlowerDarkMode.png#gh-dark-mode-only" width="400px">
+  <img src="./output/opacifiedFlowerLightMode.png#gh-light-mode-only" width="400px">
 </p>
 
 GitHub added an [easy way](https://github.blog/changelog/2021-11-24-specify-theme-context-for-images-in-markdown/) to query for darkmode/lightmode
 ```
 <p align="center">
-  <img src="./flower_dark.svg#gh-dark-mode-only" width="auto">
-  <img src="./flower_light.svg#gh-light-mode-only" width="auto">
+  <img src="./output/flower_dark.svg#gh-dark-mode-only" width="auto">
+  <img src="./output/flower_light.svg#gh-light-mode-only" width="auto">
 </p>
 ```
 
 Or using markdown style links
 ```
-![Light Mode Example](./opacifiedFlowerLightMode.png#gh-light-mode-only)
-![Dark Mode Example](./opacifiedFlowerDarkMode.png#gh-dark-mode-only)
+![Light Mode Example](./output/opacifiedFlowerLightMode.png#gh-light-mode-only)
+![Dark Mode Example](./output/opacifiedFlowerDarkMode.png#gh-dark-mode-only)
 ```
 
 # Getting Started
@@ -48,28 +48,28 @@ pipenv run start
 ### Sparse Flower
 
 <p align="center">
-  <img src="./sparseFlowerDarkMode.svg#gh-dark-mode-only" width="400px">
-  <img src="./sparseFlowerLightMode.svg#gh-light-mode-only" width="400px">
-  <img src="./opacifiedSparseFlowerDarkMode.png#gh-dark-mode-only" width="400px">
-  <img src="./opacifiedSparseFlowerLightMode.png#gh-light-mode-only" width="400px">
+  <img src="./output/sparseFlowerDarkMode.svg#gh-dark-mode-only" width="400px">
+  <img src="./output/sparseFlowerLightMode.svg#gh-light-mode-only" width="400px">
+  <img src="./output/opacifiedSparseFlowerDarkMode.png#gh-dark-mode-only" width="400px">
+  <img src="./output/opacifiedSparseFlowerLightMode.png#gh-light-mode-only" width="400px">
 </p>
 
 ### Dense flower
 
 <p align="center">
-  <img src="./denseFlowerDarkMode.svg#gh-dark-mode-only" width="400px">
-  <img src="./denseFlowerLightMode.svg#gh-light-mode-only" width="400px">
-  <img src="./opacifiedDenseFlowerDarkMode.png#gh-dark-mode-only" width="400px">
-  <img src="./opacifiedDenseFlowerLightMode.png#gh-light-mode-only" width="400px">
+  <img src="./output/denseFlowerDarkMode.svg#gh-dark-mode-only" width="400px">
+  <img src="./output/denseFlowerLightMode.svg#gh-light-mode-only" width="400px">
+  <img src="./output/opacifiedDenseFlowerDarkMode.png#gh-dark-mode-only" width="400px">
+  <img src="./output/opacifiedDenseFlowerLightMode.png#gh-light-mode-only" width="400px">
 </p>
 
 ### Large
 
 <p align="center">
-  <img src="./largeDarkMode.svg#gh-dark-mode-only" width="auto">
-  <img src="./largeLightMode.svg#gh-light-mode-only" width="auto">
-  <img src="./opacifiedLargeDarkMode.png#gh-dark-mode-only" width="auto">
-  <img src="./opacifiedLargeLightMode.png#gh-light-mode-only" width="auto">
+  <img src="./output/largeDarkMode.svg#gh-dark-mode-only" width="auto">
+  <img src="./output/largeLightMode.svg#gh-light-mode-only" width="auto">
+  <img src="./output/opacifiedLargeDarkMode.png#gh-dark-mode-only" width="auto">
+  <img src="./output/opacifiedLargeLightMode.png#gh-light-mode-only" width="auto">
 </p>
 
 
