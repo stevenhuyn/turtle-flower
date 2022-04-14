@@ -1,8 +1,11 @@
 # Turtle Flowers
 
-Coming back to the original Python tutorial. [Think Python 2](https://greenteapress.com/thinkpython2/thinkpython2.pdf)
+I dug up some old code from when I first learnt to program.
 
-I kinda like the look of the artefacts when you conver it from an SVG to a PNG so I've included both
+
+(Extreme) Turtle Flowers based off of [Think Python 2 chapter 4](https://greenteapress.com/thinkpython2/thinkpython2.pdf). Which I still think is one of the best ways to introduce functions to a new programmer. After making the general flower function, younger me made the flowers have 300 petals and some pretty pictures came out of it.
+
+I kinda like the look of the artifacts when you conver it from an SVG to a PNG so I've included both
 
 <p align="center">
   <img src="./flowerDarkMode.svg#gh-dark-mode-only" width="400px">
