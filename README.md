@@ -63,3 +63,13 @@ pipenv run start
   <img src="./opacifiedDenseFlowerLightMode.png#gh-light-mode-only" width="400px">
 </p>
 
+### Large
+
+<p align="center">
+  <img src="./largeDarkMode.svg#gh-dark-mode-only" width="auto">
+  <img src="./largeLightMode.svg#gh-light-mode-only" width="auto">
+  <img src="./opacifiedLargeDarkMode.png#gh-dark-mode-only" width="auto">
+  <img src="./opacifiedLargeLightMode.png#gh-light-mode-only" width="auto">
+</p>
+
+

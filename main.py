@@ -49,16 +49,16 @@ def flower(t, c, angle, n):
 
 
 if __name__ == "__main__":
-    filename = "sparseFlower"
+    filename = "large"
 
     for mode in ["LightMode", "DarkMode"]:
-        t = SvgTurtle(1000, 1000)
+        t = SvgTurtle(2000, 2000)
 
         if mode == "DarkMode":
             t.pencolor(1, 1, 1)
             t.getscreen().bgcolor("black")
 
-        flower(t, 250, 300, 100)
+        flower(t, 250, 340, 150)
 
         t.save_as(f"{filename}{mode}.svg")
 
@@ -87,6 +87,6 @@ if __name__ == "__main__":
         if mode == "DarkMode":
             t = SvgTurtle(1000, 1000)
             t.pencolor(1, 1, 1)
-            flower(t, 250, 300, 100)
+            flower(t, 250, 340, 150)
             t.save_as(f"{filename}{mode}.svg")
 
