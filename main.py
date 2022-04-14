@@ -78,7 +78,7 @@ if __name__ == "__main__":
                 newData.append((r, g, b, r))
 
         rgba.putdata(newData)
-        rgba.save(f"opacified{filename.capitalize()}{mode}.png", "PNG")
+        rgba.save(f"opacified{filename[0].capitalize() + filename[1:]}{mode}.png", "PNG")
 
         # Cleanup
         os.remove(f"{filename}{mode}.png")
