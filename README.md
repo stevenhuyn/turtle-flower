@@ -5,7 +5,7 @@ Cleaned up some code I dug up from 2017 and generated some images (instead of be
 
 (Extreme) Turtle Flowers based off of [Think Python 2 chapter 4](https://greenteapress.com/thinkpython2/thinkpython2.pdf). Which I still think is one of the best ways to introduce function composition to a new programmer. After making the general flower function, younger me made the flowers have 100s of petals and some pretty pictures came out of it.
 
-I kinda like the look of the artifacts when you conver it from an SVG to a PNG so I've included both
+I kinda like the look of the artifacts when you convert it from an SVG (left) to a PNG (right) so I've included both
 
 <p align="center">
   <img src="./output/flowerDarkMode.svg#gh-dark-mode-only" width="400px">
