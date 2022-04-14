@@ -42,7 +42,16 @@ Run the main file
 pipenv run start
 ```
 
-### Denser flower
+### Sparse Flower
+
+<p align="center">
+  <img src="./sparseFlowerDarkMode.svg#gh-dark-mode-only" width="400px">
+  <img src="./sparseFlowerLightMode.svg#gh-light-mode-only" width="400px">
+  <img src="./opacifiedSparseFlowerDarkMode.png#gh-dark-mode-only" width="400px">
+  <img src="./opacifiedSparseFlowerLightMode.png#gh-light-mode-only" width="400px">
+</p>
+
+### Dense flower
 
 <p align="center">
   <img src="./denseFlowerDarkMode.svg#gh-dark-mode-only" width="400px">
@@ -50,3 +59,4 @@ pipenv run start
   <img src="./opacifiedDenseFlowerDarkMode.png#gh-dark-mode-only" width="400px">
   <img src="./opacifiedDenseFlowerLightMode.png#gh-light-mode-only" width="400px">
 </p>
+
