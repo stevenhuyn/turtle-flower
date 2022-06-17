@@ -4,6 +4,8 @@ Cleaned up some code I dug up from 2017 when I was first learning Python and gen
 
 Turtle Flowers based off of [Think Python 2 chapter 4](https://greenteapress.com/thinkpython2/thinkpython2.pdf). 
 
+Made 2 versions svg and png as I liked the artifacts you get from rendering to a png.
+
 <p align="center">
   <img src="./output/flowerDarkMode.svg#gh-dark-mode-only" width="400px">
   <img src="./output/flowerLightMode.svg#gh-light-mode-only" width="400px">
